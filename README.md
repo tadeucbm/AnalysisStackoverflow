@@ -12,8 +12,6 @@
    
    
 
----
-
 # Project Motivation
 
 
@@ -30,15 +28,11 @@ The questions answered were:
 
 
 
----
-
 # File Descriptions
 
 The main file is an ipynb notebook that contains all the analysis done in the project. Data were extracted from a csv, the link to access this csv and other years is [here]([Stack Overflow Insights - Developer Hiring, Marketing, and User Research](https://insights.stackoverflow.com/survey)).
 
 
-
----
 
 # How to Interact with the project
 
@@ -46,7 +40,7 @@ The entire project is in the [notebook]([AnalysisStackoverflow/notebook.ipynb at
 
 
 
----
+
 
 # Acknowledgements
 
