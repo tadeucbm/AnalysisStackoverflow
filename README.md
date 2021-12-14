@@ -36,7 +36,7 @@ The main file is an ipynb notebook that contains all the analysis done in the pr
 
 ## How to Interact with the project
 
-The entire project is in the [notebook](https://github.com/tadeucbm/AnalysisStackoverflow/blob/main/notebook.ipynb) and the results were described in [this post in the medium]().   
+The entire project is in the [notebook](https://github.com/tadeucbm/AnalysisStackoverflow/blob/main/notebook.ipynb) and the results were described in [this post in the medium](https://medium.com/@tadeucbmad/what-you-need-to-know-about-the-data-science-professional-d738d70162cc).   
 <br/>
 
 ## Acknowledgements
