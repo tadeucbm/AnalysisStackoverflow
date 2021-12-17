@@ -12,6 +12,8 @@
 4. Seaborn 0.11.2
 
 5. Matbplotlib 3.4.3   
+
+6. scikit-learn 1.0.1
    
    <br/>
 
